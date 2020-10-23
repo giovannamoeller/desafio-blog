@@ -1,0 +1,185 @@
+{
+    "posts": [
+      {
+        "id": 0,
+        "title": "Meu álbum de fotos novo",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut congue nisi. Nunc metus neque, consectetur sit amet nisl in, ultrices gravida augue. Sed nec lacinia mauris. Curabitur lacus sapien, rutrum ut imperdiet ut, pretium quis magna. Quisque ac lorem sit amet arcu ultricies bibendum sed eget urna. Vivamus hendrerit sodales sodales. Nunc tincidunt, mauris sed vestibulum maximus, lectus dui iaculis dui, vitae sodales lectus purus at lorem.Etiam sed tristique eros. Vivamus efficitur augue et erat ultricies, sit amet consequat justo porttitor. Nunc malesuada libero quis posuere auctor. Suspendisse non ultrices purus. Donec pretium laoreet gravida. Nunc quis feugiat libero. Nam ut consectetur elit. Aenean in nibh dui. Aenean arcu ipsum, scelerisque nec luctus in, tristique quis justo. Cras sed purus eu purus aliquet malesuada vel ac nisl. Mauris sed tortor lobortis, tincidunt diam sit amet, egestas eros. Etiam sollicitudin mi at urna pulvinar, eu laoreet leo elementum. Nam dignissim magna ipsum, eu sodales massa dapibus ut. Aenean feugiat eleifend ipsum ac elementum. Suspendisse potenti. Quisque at commodo tortor, vel facilisis turpis.Praesent ullamcorper, eros sit amet lacinia bibendum, sem turpis fringilla turpis, sed pharetra nulla mauris in felis. Praesent luctus tempor sem feugiat posuere. Duis iaculis nisi ac est pellentesque porta. Phasellus mattis diam vitae metus tempor imperdiet. Cras facilisis malesuada hendrerit. Integer accumsan quam lectus. Vestibulum lobortis quam vel ex euismod, sed pulvinar massa hendrerit. Maecenas at ex enim. Nullam vel lorem leo. Vestibulum posuere rhoncus quam, et lobortis dui. Vivamus id magna ligula.Curabitur vehicula magna lectus, porta sagittis risus placerat sed. Praesent luctus erat sit amet neque mollis, vitae imperdiet nulla feugiat. Suspendisse gravida malesuada mauris a sagittis. Aliquam congue nulla vitae diam luctus egestas. Praesent a lorem at mauris auctor efficitur. Aliquam aliquet orci nec augue commodo auctor. Integer faucibus varius ornare. Morbi pharetra erat eu ante aliquet, vel malesuada arcu porta. Quisque tempor sapien sit amet lorem eleifend, in auctor lectus dignissim. Pellentesque ultricies neque et ornare aliquet. Ut pretium feugiat tortor, euismod dignissim massa accumsan at. Donec suscipit magna et porttitor vulputate. Nulla sed neque dui. Donec consequat euismod mi ac pretium. Ut fermentum a magna a gravida.Cras euismod vel libero bibendum venenatis. Aenean at leo malesuada urna congue luctus id vitae risus. Donec eu commodo nisi. Cras aliquam ullamcorper maximus. Phasellus nisl nibh, porta at ultrices non, pellentesque in erat. Suspendisse dignissim convallis lacinia. Vestibulum urna arcu, iaculis dignissim dolor dapibus, rhoncus suscipit mauris. Nullam dictum metus id magna sollicitudin, non posuere quam imperdiet. In eget molestie lectus, non volutpat lacus. Sed commodo faucibus mi. Mauris nec cursus nunc, ut dignissim nulla. Mauris vestibulum consectetur nisi, sit amet tempus ex. Nulla diam eros, sodales id sodales ac, finibus eu odio.",
+        "postedBy": 3,
+        "postedAt": "2020-02-04 13:05",
+        "category": 0
+      },
+      {
+        "id": 1,
+        "title": "Au au",
+        "body": "au au au au au",
+        "postedBy": 4,
+        "postedAt": "2020-01-01 09:02",
+        "category": 2
+      },
+      {
+        "id": 2,
+        "title": "Fotos do meu casamento",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut congue nisi. Nunc metus neque, consectetur sit amet nisl in, ultrices gravida augue. Sed nec lacinia mauris. Curabitur lacus sapien, rutrum ut imperdiet ut, pretium quis magna. Quisque ac lorem sit amet arcu ultricies bibendum sed eget urna. Vivamus hendrerit sodales sodales. Nunc tincidunt, mauris sed vestibulum maximus, lectus dui iaculis dui, vitae sodales lectus purus at lorem.Etiam sed tristique eros. Vivamus efficitur augue et erat ultricies, sit amet consequat justo porttitor. Nunc malesuada libero quis posuere auctor. Suspendisse non ultrices purus. Donec pretium laoreet gravida. Nunc quis feugiat libero. Nam ut consectetur elit. Aenean in nibh dui. Aenean arcu ipsum, scelerisque nec luctus in, tristique quis justo. Cras sed purus eu purus aliquet malesuada vel ac nisl. Mauris sed tortor lobortis, tincidunt diam sit amet, egestas eros. Etiam sollicitudin mi at urna pulvinar, eu laoreet leo elementum. Nam dignissim magna ipsum, eu sodales massa dapibus ut. Aenean feugiat eleifend ipsum ac elementum. Suspendisse potenti. Quisque at commodo tortor, vel facilisis turpis.Praesent ullamcorper, eros sit amet lacinia bibendum, sem turpis fringilla turpis, sed pharetra nulla mauris in felis. Praesent luctus tempor sem feugiat posuere. Duis iaculis nisi ac est pellentesque porta. Phasellus mattis diam vitae metus tempor imperdiet. Cras facilisis malesuada hendrerit. Integer accumsan quam lectus. Vestibulum lobortis quam vel ex euismod, sed pulvinar massa hendrerit. Maecenas at ex enim. Nullam vel lorem leo. Vestibulum posuere rhoncus quam, et lobortis dui. Vivamus id magna ligula.Curabitur vehicula magna lectus, porta sagittis risus placerat sed. Praesent luctus erat sit amet neque mollis, vitae imperdiet nulla feugiat. Suspendisse gravida malesuada mauris a sagittis. Aliquam congue nulla vitae diam luctus egestas. Praesent a lorem at mauris auctor efficitur. Aliquam aliquet orci nec augue commodo auctor. Integer faucibus varius ornare. Morbi pharetra erat eu ante aliquet, vel malesuada arcu porta. Quisque tempor sapien sit amet lorem eleifend, in auctor lectus dignissim. Pellentesque ultricies neque et ornare aliquet. Ut pretium feugiat tortor, euismod dignissim massa accumsan at. Donec suscipit magna et porttitor vulputate. Nulla sed neque dui. Donec consequat euismod mi ac pretium. Ut fermentum a magna a gravida.Cras euismod vel libero bibendum venenatis. Aenean at leo malesuada urna congue luctus id vitae risus. Donec eu commodo nisi. Cras aliquam ullamcorper maximus. Phasellus nisl nibh, porta at ultrices non, pellentesque in erat. Suspendisse dignissim convallis lacinia. Vestibulum urna arcu, iaculis dignissim dolor dapibus, rhoncus suscipit mauris. Nullam dictum metus id magna sollicitudin, non posuere quam imperdiet. In eget molestie lectus, non volutpat lacus. Sed commodo faucibus mi. Mauris nec cursus nunc, ut dignissim nulla. Mauris vestibulum consectetur nisi, sit amet tempus ex. Nulla diam eros, sodales id sodales ac, finibus eu odio.",
+        "postedBy": 2,
+        "postedAt": "2020-09-22 10:24",
+        "category": 0
+      },
+      {
+        "id": 3,
+        "title": "Tigres africanos",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut congue nisi. Nunc metus neque, consectetur sit amet nisl in, ultrices gravida augue. Sed nec lacinia mauris. Curabitur lacus sapien, rutrum ut imperdiet ut, pretium quis magna. Quisque ac lorem sit amet arcu ultricies bibendum sed eget urna. Vivamus hendrerit sodales sodales. Nunc tincidunt, mauris sed vestibulum maximus, lectus dui iaculis dui, vitae sodales lectus purus at lorem.Etiam sed tristique eros. Vivamus efficitur augue et erat ultricies, sit amet consequat justo porttitor. Nunc malesuada libero quis posuere auctor. Suspendisse non ultrices purus. Donec pretium laoreet gravida. Nunc quis feugiat libero. Nam ut consectetur elit. Aenean in nibh dui. Aenean arcu ipsum, scelerisque nec luctus in, tristique quis justo. Cras sed purus eu purus aliquet malesuada vel ac nisl. Mauris sed tortor lobortis, tincidunt diam sit amet, egestas eros. Etiam sollicitudin mi at urna pulvinar, eu laoreet leo elementum. Nam dignissim magna ipsum, eu sodales massa dapibus ut. Aenean feugiat eleifend ipsum ac elementum. Suspendisse potenti. Quisque at commodo tortor, vel facilisis turpis.Praesent ullamcorper, eros sit amet lacinia bibendum, sem turpis fringilla turpis, sed pharetra nulla mauris in felis. Praesent luctus tempor sem feugiat posuere. Duis iaculis nisi ac est pellentesque porta. Phasellus mattis diam vitae metus tempor imperdiet. Cras facilisis malesuada hendrerit. Integer accumsan quam lectus. Vestibulum lobortis quam vel ex euismod, sed pulvinar massa hendrerit. Maecenas at ex enim. Nullam vel lorem leo. Vestibulum posuere rhoncus quam, et lobortis dui. Vivamus id magna ligula.Curabitur vehicula magna lectus, porta sagittis risus placerat sed. Praesent luctus erat sit amet neque mollis, vitae imperdiet nulla feugiat. Suspendisse gravida malesuada mauris a sagittis. Aliquam congue nulla vitae diam luctus egestas. Praesent a lorem at mauris auctor efficitur. Aliquam aliquet orci nec augue commodo auctor. Integer faucibus varius ornare. Morbi pharetra erat eu ante aliquet, vel malesuada arcu porta. Quisque tempor sapien sit amet lorem eleifend, in auctor lectus dignissim. Pellentesque ultricies neque et ornare aliquet. Ut pretium feugiat tortor, euismod dignissim massa accumsan at. Donec suscipit magna et porttitor vulputate. Nulla sed neque dui. Donec consequat euismod mi ac pretium. Ut fermentum a magna a gravida.Cras euismod vel libero bibendum venenatis. Aenean at leo malesuada urna congue luctus id vitae risus. Donec eu commodo nisi. Cras aliquam ullamcorper maximus. Phasellus nisl nibh, porta at ultrices non, pellentesque in erat. Suspendisse dignissim convallis lacinia. Vestibulum urna arcu, iaculis dignissim dolor dapibus, rhoncus suscipit mauris. Nullam dictum metus id magna sollicitudin, non posuere quam imperdiet. In eget molestie lectus, non volutpat lacus. Sed commodo faucibus mi. Mauris nec cursus nunc, ut dignissim nulla. Mauris vestibulum consectetur nisi, sit amet tempus ex. Nulla diam eros, sodales id sodales ac, finibus eu odio.",
+        "postedBy": 0,
+        "postedAt": "2020-03-30 21:30",
+        "category": 1
+      },
+      {
+        "id": 4,
+        "title": "Melhores brinquedos para seu pet",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut congue nisi. Nunc metus neque, consectetur sit amet nisl in, ultrices gravida augue. Sed nec lacinia mauris. Curabitur lacus sapien, rutrum ut imperdiet ut, pretium quis magna. Quisque ac lorem sit amet arcu ultricies bibendum sed eget urna. Vivamus hendrerit sodales sodales. Nunc tincidunt, mauris sed vestibulum maximus, lectus dui iaculis dui, vitae sodales lectus purus at lorem.Etiam sed tristique eros. Vivamus efficitur augue et erat ultricies, sit amet consequat justo porttitor. Nunc malesuada libero quis posuere auctor. Suspendisse non ultrices purus. Donec pretium laoreet gravida. Nunc quis feugiat libero. Nam ut consectetur elit. Aenean in nibh dui. Aenean arcu ipsum, scelerisque nec luctus in, tristique quis justo. Cras sed purus eu purus aliquet malesuada vel ac nisl. Mauris sed tortor lobortis, tincidunt diam sit amet, egestas eros. Etiam sollicitudin mi at urna pulvinar, eu laoreet leo elementum. Nam dignissim magna ipsum, eu sodales massa dapibus ut. Aenean feugiat eleifend ipsum ac elementum. Suspendisse potenti. Quisque at commodo tortor, vel facilisis turpis.Praesent ullamcorper, eros sit amet lacinia bibendum, sem turpis fringilla turpis, sed pharetra nulla mauris in felis. Praesent luctus tempor sem feugiat posuere. Duis iaculis nisi ac est pellentesque porta. Phasellus mattis diam vitae metus tempor imperdiet. Cras facilisis malesuada hendrerit. Integer accumsan quam lectus. Vestibulum lobortis quam vel ex euismod, sed pulvinar massa hendrerit. Maecenas at ex enim. Nullam vel lorem leo. Vestibulum posuere rhoncus quam, et lobortis dui. Vivamus id magna ligula.Curabitur vehicula magna lectus, porta sagittis risus placerat sed. Praesent luctus erat sit amet neque mollis, vitae imperdiet nulla feugiat. Suspendisse gravida malesuada mauris a sagittis. Aliquam congue nulla vitae diam luctus egestas. Praesent a lorem at mauris auctor efficitur. Aliquam aliquet orci nec augue commodo auctor. Integer faucibus varius ornare. Morbi pharetra erat eu ante aliquet, vel malesuada arcu porta. Quisque tempor sapien sit amet lorem eleifend, in auctor lectus dignissim. Pellentesque ultricies neque et ornare aliquet. Ut pretium feugiat tortor, euismod dignissim massa accumsan at. Donec suscipit magna et porttitor vulputate. Nulla sed neque dui. Donec consequat euismod mi ac pretium. Ut fermentum a magna a gravida.Cras euismod vel libero bibendum venenatis. Aenean at leo malesuada urna congue luctus id vitae risus. Donec eu commodo nisi. Cras aliquam ullamcorper maximus. Phasellus nisl nibh, porta at ultrices non, pellentesque in erat. Suspendisse dignissim convallis lacinia. Vestibulum urna arcu, iaculis dignissim dolor dapibus, rhoncus suscipit mauris. Nullam dictum metus id magna sollicitudin, non posuere quam imperdiet. In eget molestie lectus, non volutpat lacus. Sed commodo faucibus mi. Mauris nec cursus nunc, ut dignissim nulla. Mauris vestibulum consectetur nisi, sit amet tempus ex. Nulla diam eros, sodales id sodales ac, finibus eu odio.",
+        "postedBy": 2,
+        "postedAt": "2020-07-11 06:17",
+        "category": 1
+      },
+      {
+        "id": 5,
+        "title": "Procuro grupo para jogar Among Us",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut congue nisi. Nunc metus neque, consectetur sit amet nisl in, ultrices gravida augue. Sed nec lacinia mauris. Curabitur lacus sapien, rutrum ut imperdiet ut, pretium quis magna. Quisque ac lorem sit amet arcu ultricies bibendum sed eget urna. Vivamus hendrerit sodales sodales. Nunc tincidunt, mauris sed vestibulum maximus, lectus dui iaculis dui, vitae sodales lectus purus at lorem.Etiam sed tristique eros. Vivamus efficitur augue et erat ultricies, sit amet consequat justo porttitor. Nunc malesuada libero quis posuere auctor. Suspendisse non ultrices purus. Donec pretium laoreet gravida. Nunc quis feugiat libero. Nam ut consectetur elit. Aenean in nibh dui. Aenean arcu ipsum, scelerisque nec luctus in, tristique quis justo. Cras sed purus eu purus aliquet malesuada vel ac nisl. Mauris sed tortor lobortis, tincidunt diam sit amet, egestas eros. Etiam sollicitudin mi at urna pulvinar, eu laoreet leo elementum. Nam dignissim magna ipsum, eu sodales massa dapibus ut. Aenean feugiat eleifend ipsum ac elementum. Suspendisse potenti. Quisque at commodo tortor, vel facilisis turpis.Praesent ullamcorper, eros sit amet lacinia bibendum, sem turpis fringilla turpis, sed pharetra nulla mauris in felis. Praesent luctus tempor sem feugiat posuere. Duis iaculis nisi ac est pellentesque porta. Phasellus mattis diam vitae metus tempor imperdiet. Cras facilisis malesuada hendrerit. Integer accumsan quam lectus. Vestibulum lobortis quam vel ex euismod, sed pulvinar massa hendrerit. Maecenas at ex enim. Nullam vel lorem leo. Vestibulum posuere rhoncus quam, et lobortis dui. Vivamus id magna ligula.Curabitur vehicula magna lectus, porta sagittis risus placerat sed. Praesent luctus erat sit amet neque mollis, vitae imperdiet nulla feugiat. Suspendisse gravida malesuada mauris a sagittis. Aliquam congue nulla vitae diam luctus egestas. Praesent a lorem at mauris auctor efficitur. Aliquam aliquet orci nec augue commodo auctor. Integer faucibus varius ornare. Morbi pharetra erat eu ante aliquet, vel malesuada arcu porta. Quisque tempor sapien sit amet lorem eleifend, in auctor lectus dignissim. Pellentesque ultricies neque et ornare aliquet. Ut pretium feugiat tortor, euismod dignissim massa accumsan at. Donec suscipit magna et porttitor vulputate. Nulla sed neque dui. Donec consequat euismod mi ac pretium. Ut fermentum a magna a gravida.Cras euismod vel libero bibendum venenatis. Aenean at leo malesuada urna congue luctus id vitae risus. Donec eu commodo nisi. Cras aliquam ullamcorper maximus. Phasellus nisl nibh, porta at ultrices non, pellentesque in erat. Suspendisse dignissim convallis lacinia. Vestibulum urna arcu, iaculis dignissim dolor dapibus, rhoncus suscipit mauris. Nullam dictum metus id magna sollicitudin, non posuere quam imperdiet. In eget molestie lectus, non volutpat lacus. Sed commodo faucibus mi. Mauris nec cursus nunc, ut dignissim nulla. Mauris vestibulum consectetur nisi, sit amet tempus ex. Nulla diam eros, sodales id sodales ac, finibus eu odio.",
+        "postedBy": 1,
+        "postedAt": "2020-02-13 13:31",
+        "category": 3
+      }
+    ],
+    "comments": [
+      {
+        "id": 0,
+        "post": 0,
+        "author": 2,
+        "content": "Que lente que você usa?",
+        "like": true,
+        "postedAt": "2020-02-05 12:05"
+      },
+      {
+        "id": 1,
+        "post": 0,
+        "author": 1,
+        "content": "Incrível!",
+        "like": true,
+        "postedAt": "2020-02-06 09:03"
+      },
+      {
+        "id": 2,
+        "post": 1,
+        "author": 1,
+        "content": "au au au?",
+        "like": false,
+        "postedAt": "2020-01-01 11:02"
+      },
+      {
+        "id": 3,
+        "post": 1,
+        "author": 2,
+        "content": "Concordo amigão",
+        "like": true,
+        "postedAt": "2020-01-01 11:09"
+      },
+      {
+        "id": 4,
+        "post": 1,
+        "author": 4,
+        "content": "Au au au!",
+        "like": true,
+        "postedAt": "2020-01-01 12:51"
+      },
+      {
+        "id": 5,
+        "post": 2,
+        "author": 0,
+        "content": "Memórias para a vida toda <3",
+        "like": true,
+        "postedAt": "2020-09-22 10:46"
+      },
+      {
+        "id": 6,
+        "post": 2,
+        "author": 1,
+        "content": "Nem me convidou...",
+        "like": false,
+        "postedAt": "2020-09-24 20:00"
+      },
+      {
+        "id": 7,
+        "post": 3,
+        "author": 4,
+        "content": "Au au...",
+        "like": false,
+        "postedAt": "2020-04-02 08:36"
+      },
+      {
+        "id": 8,
+        "post": 4,
+        "author": 4,
+        "content": "AU AU AU AU AU AU AU",
+        "like": true,
+        "postedAt": "2020-07-11 06:18"
+      },
+      {
+        "id": 9,
+        "post": 4,
+        "author": 2,
+        "content": "Onde será que tem um preço bom pelo primeiro?",
+        "like": true,
+        "postedAt": "2020-07-11 12:37"
+      },
+      {
+        "id": 10,
+        "post": 5,
+        "author": 1,
+        "content": ";-;",
+        "like": false,
+        "postedAt": "2020-03-21 02:05"
+      }
+    ],
+    "categories": [
+      { "id": 0, "name": "Fotos", "color": "#202A44" },
+      { "id": 1, "name": "Animais", "color": "#009CDE" },
+      { "id": 2, "name": "Política", "color": "#97D700" },
+      { "id": 3, "name": "Outros", "color": "#ED8B00" }
+    ],
+    "users": [
+      {
+        "id": 0,
+        "name": "John Carter",
+        "job": "Aviador",
+        "joinedAt": "2019-10-03 19:03",
+        "picture": "https://i.imgur.com/8f4zNIP.png"
+      },
+      {
+        "id": 1,
+        "name": "Gina Abiagil",
+        "job": "Coordenadora de projetos",
+        "joinedAt": "2019-12-30 23:49",
+        "picture": "https://i.imgur.com/5gnAAe7.png"
+      },
+      {
+        "id": 2,
+        "name": "Robin Larson",
+        "job": "Policial",
+        "joinedAt": "2019-03-14 13:21",
+        "picture": "https://i.imgur.com/pYT8Tyk.png"
+      },
+      {
+        "id": 3,
+        "name": "Tanisha Earnston",
+        "job": "Fotógrafa",
+        "joinedAt": "2019-01-02 03:10",
+        "picture": "https://i.imgur.com/8bMAXCw.png"
+      },
+      {
+        "id": 4,
+        "name": "Carl",
+        "job": "Cachorro",
+        "joinedAt": "2019-03-14 13:46",
+        "picture": "https://i.imgur.com/WyVgbeA.png"
+      }
+    ]
+  }
